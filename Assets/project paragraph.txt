@@ -1,0 +1,1 @@
+this scene isn't something super deep, but mostly just the little man being startled by a rectangle. i dunno, shapes can be scary. i mostly wanted to implement the squash and stretch method, which i think is super fun to animate. though it looks a bit wonky, i think i got it pretty well. i'm trying to display panic and fear, like a fight-or-flight response.
